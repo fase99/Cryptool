@@ -1,6 +1,6 @@
-# 🔐 Encryptor CLI – Herramienta de cifrado AES / DES / 3DES en Python
+# 🔐 Cryptool CLI – Herramienta de cifrado AES / DES / 3DES en Python
 
-Encryptor es una herramienta de línea de comandos escrita en Python que permite **cifrar y descifrar textos** utilizando tres algoritmos clásicos de criptografía simétrica:
+Cryptool es una herramienta de línea de comandos escrita en Python que permite **cifrar y descifrar textos** utilizando tres algoritmos clásicos de criptografía simétrica:
 
 - AES-256 (CBC)
 - DES (CBC)
