@@ -1,0 +1,11 @@
+[project]
+name = "cryptool"
+version = "1.0"
+description = "Herramienta de cifrado"
+authors = [{ name="fase99", email="felipe.silva.e@outlook.com" }]
+dependencies = ["pycryptodome", "pyfiglet"]
+requires-python = ">=3.8"
+
+[project.scripts]
+cryptool = "cryptool:main"
+
