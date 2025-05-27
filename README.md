@@ -6,8 +6,6 @@ Encryptor es una herramienta de línea de comandos escrita en Python que permite
 - DES (CBC)
 - 3DES (CBC)
 
-Esta herramienta usa las bibliotecas `pycryptodome` y `pyfiglet` para proporcionar una experiencia segura y visualmente agradable.
-
 ---
 
 ## ✨ Características
