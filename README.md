@@ -23,7 +23,6 @@ Cryptool es una herramienta de línea de comandos escrita en Python que permite 
 
 - Python 3.8 o superior
 - [`pipx`](https://pypa.github.io/pipx/) instalado
-- `python3-venv` instalado (recomendado por `pipx`)
 
 ---
 
@@ -33,7 +32,7 @@ Cryptool es una herramienta de línea de comandos escrita en Python que permite 
 
 ```bash
 sudo apt update
-sudo apt install pipx python3-venv -y
+sudo apt install pipx -y
 pipx ensurepath
 source ~/.bashrc  # o reinicia la terminal
 ```
