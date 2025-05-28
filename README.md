@@ -36,4 +36,16 @@ sudo apt update
 sudo apt install pipx python3-venv -y
 pipx ensurepath
 source ~/.bashrc  # o reinicia la terminal
+```
+
+### 2. Clonar repositorio:
+```bash
+git clone https://github.com/fase99/Cryptool
+```
+
+### 3. Instalar herramienta: 
+```bash
+cd Cryptool
+pipx install .
+```
 
