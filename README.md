@@ -27,7 +27,7 @@ Cryptool es una herramienta de línea de comandos escrita en Python que permite 
 
 ---
 
-## ⚙️ Instalación
+## ⚙️ Instalación (Linux)
 
 ### 1. Instala `pipx` (si no lo tienes):
 
